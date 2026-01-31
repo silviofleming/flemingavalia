@@ -1,0 +1,12 @@
+{
+  "name": "Fleming Saúde - Inteligência Clínica Integrativa",
+  "description": "Plataforma de elite para análise de biomarcadores e otimização da longevidade.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "openGraph": {
+    "title": "Fleming Saúde | Decifre sua Biologia",
+    "description": "Análise integrativa de exames com IA de ponta.",
+    "type": "website"
+  }
+}
